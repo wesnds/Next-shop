@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cross-env": "7.0.3",
-    "knex": "0.21.18",
+    "knex": "2.4.0",
     "sqlite3": "5.1.4",
     "strapi": "3.6.11",
     "strapi-admin": "3.6.11",
